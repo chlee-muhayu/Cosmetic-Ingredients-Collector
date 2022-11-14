@@ -21,8 +21,8 @@ from tqdm import tqdm
 # 전역 변수 설정 #
 
 # Naver API 토큰 #
-client_id = "QWVioFFnIln3wUPOCsjG"
-client_secret = "p2mnFSzIQh"
+client_id = "Redacted"
+client_secret = "Redacted"
 
 # Naver API 변수 #
 savecsv = 1
